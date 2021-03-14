@@ -1,0 +1,11 @@
+plotly
+pandas-profiling
+pycountry_convert
+
+streamlit
+
+pandas
+
+numpy
+
+sklearn
