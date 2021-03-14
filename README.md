@@ -3,6 +3,8 @@
 to run the application as a web app
 
 Step 1 install streamlit 
+
+
 Step 2 open cmd and run the following command
         streamlit run app.py
         It will open the application as a web app
